@@ -2,19 +2,19 @@
 
 ## Öğrenenler İçin Kontrol Listesi  
 
-- [ ] Komut İstemini (cmd.exe) Açma
-- [ ] Tüm Dizinleri/Dosyaları Listeleme
-- [ ] Dizin Değiştirme
-- [ ] Üst Dizine Çıkma
-- [ ] Kök Dizine Gitme
-- [ ] Dizin Oluşturma
-- [ ] Metin Dosyası Oluşturma
-- [ ] Metin Dosyasının İçeriğini Gösterme
-- [ ] Dosya Silme
-- [ ] Dizin Silme
-- [ ] Konsol Ekranını Temizleme
-- [ ] Konsoldan Çıkma
-- [ ] ```TAB``` Tuşundan Yararlanma
+- [+] Komut İstemini (cmd.exe) Açma (windows + r)
+- [+] Tüm Dizinleri/Dosyaları Listeleme (dir)
+- [+] Dizin Değiştirme (cd)
+- [+] Üst Dizine Çıkma (cd ..)
+- [+] Kök Dizine Gitme (cd \)
+- [+] Dizin Oluşturma (md)
+- [+] Metin Dosyası Oluşturma (echo (yazılacak şey) > (ad).txt)
+- [+] Metin Dosyasının İçeriğini Gösterme (more (ad).txt)
+- [+] Dosya Silme (del (dosya).txt)
+- [+] Dizin Silme (rd (dizin))
+- [+] Konsol Ekranını Temizleme (cls)
+- [+] Konsoldan Çıkma (exit)
+- [+] ```TAB``` Tuşundan Yararlanma
 
 
 ## Örnekler
